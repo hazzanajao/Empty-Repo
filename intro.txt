@@ -1,0 +1,3 @@
+"I am passionate about software development" 
+"I am a software trainee at Integrify" 
+"I love to create applications that help to solve real life issues" 
